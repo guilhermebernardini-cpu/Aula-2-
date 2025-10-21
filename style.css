@@ -1,0 +1,10 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue(9, 9, 84, 0.595);
+}
+
+Input{
+    width: 300px;
+    height: 25px;
+    border: 3px solid black;
+}
